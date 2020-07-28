@@ -19,4 +19,4 @@
 
 After all those done, `Vim` will looks like this 🎉🎉:
 
-![](/Users/wenjie.yang/Test/personal-vimrc/images/image-20200728214327246.png)
+![image](https://raw.githubusercontent.com/jasonYoge/personal-vimrc/master/images/image-20200728214327246.png)
